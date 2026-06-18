@@ -12,7 +12,7 @@ The goal of this project is to reproduce the basic pulse evolution of a syntheti
 
 - `spl_simulation.py`: Main simulation code.
 - `outputs/`: Example generated plots.
-- `docs/report.pdf`: Background report explaining the physical setup and motivation.
+- `docs/Complexifying an Optical Neural Network Based on Synthetic Nonlinear Photonic Lattices.pdf`: Background report explaining the physical setup and motivation.
 
 ## How to run
 
@@ -20,3 +20,7 @@ Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+## Status
+
+This is an exploratory simulation project developed as part of a research report. It currently reproduces the pulse-evolution dynamics of a synthetic photonic lattice and visualizes the resulting complex amplitudes. Training of the corresponding optical neural network is not yet implemented.
